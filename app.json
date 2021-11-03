@@ -20,85 +20,85 @@
             "description": "get a Heroku API key from http://dashboard.heroku.com/account",
             "required": false}
         "LOAD_UNOFFICIAL_PLUGINS": {
-            "description": "",
+            "description": "Mention True or False",
             "required": false},
         "CUSTOM_PLUGINS_REPO": {
-            "description": "",
+            "description": "Copy your repo link and use it as value of above var",
             "required": false},
         "ASSERT_SINGLE_INSTANCE": {
-            "description": "",
+            "description": "This will assert that there is only one running Userge instance to prevent from AUTH_KEY_DUPLICATED error",
             "required": false},
         "WORKERS": {
-            "description": "",
+            "description": "Set the number of workers count you want",
             "required": false},
         "RSS_CHAT_ID": {
-            "description": "",
+            "description": "Telegram chat id for post updates of rss feeds if you have added feed urls",
             "required": false}
         "G_DRIVE_CLIENT_ID": {
-            "description": "",
+            "description": "Go to console.developers.google.com to get it",
             "required": false},
         "G_DRIVE_CLIENT_SECRET": {
-            "description": "",
+            "description": "Go to console.developers.google.com to get it",
             "required": false},
         "G_DRIVE_IS_TD": {
-            "description": "",
+            "description": "If you are using Team Drive (TD) then set this value as True",
             "required": false},
         "G_DRIVE_INDEX_LINK": {
-            "description": "",
+            "description": "Just fill your url eg. https://example.example.workers.dev",
             "required": false},
         "DOWN_PATH": {
-            "description": "",
+            "description": "directory of your downloads folder, default is downloads",
             "required": false}
         "PREFERRED_LANGUAGE": {
-            "description": "",
+            "description": "Select your Preferred language. For example: If English value will be en",
             "required": false},
         "CURRENCY_API": {
-            "description": "",
+            "description": "Go to free.currencyconverterapi.com to get it",
             "required": false},
         "OCR_SPACE_API_KEY": {
-            "description": "",
+            "description": "Go to http://eepurl.com/bOLOcf to get it",
             "required": false},
         "WEATHER_DEFCITY": {
-            "description": "",
+            "description": "Add Default city value for weather details, eg. Delhi, India",
             "required": false},
         "USERGE_ANTISPAM_API": {
-            "description": "",
+            "description": "Get it from @UsergeAntiSpamBot in Telegram",
             "required": false}
         "SPAM_WATCH_API": {
-            "description": "",
+            "description": "Get SpamWatch API from @SpamWatch on Telegram",
             "required": false},
         "OPEN_WEATHER_MAP": {
-            "description": "",
+            "description": "Goto openweathermap.org to get it",
             "required": false},
         "REMOVE_BG_API_KEY": {
-            "description": "",
+            "description": "Go to www.remove.bg/api to get it",
             "required": false},
         "G_DRIVE_PARENT_ID": {
-            "description": "",
+            "description": "enter the Folder Id of Google Drive",
             "required": false},
         "CMD_TRIGGER": {
-            "description": "",
+            "description": "Command Trigger needed to trigger your userbot to execute your command eg. . , !",
             "required": false}
         "SUDO_TRIGGER": {
-            "description": "",
+            "description": "Must be different from CMD_TRIGGER eg. $",
             "required": false},
         "UPSTREAM_REPO": {
-            "description": "",
+            "description": "Mention this url https://github.com/UsergeTeam/Userge",
             "required": false}
         "FINISHED_PROGRESS_STR": {
-            "description": "",
+            "description": "You must fill Single text of filled bar line of character which can be shown in Finish bar https://coolsymbol.com/ https://changaco.oy.lc/unicode-progress-bars/ https://text-symbols.com/",
             "required": false},
         "UNFINISHED_PROGRESS_STR": {
-            "description": "",
+            "description": "Same info as above",
             "required": false},
         "CUSTOM_PACK_NAME": {
-            "description": "",
+            "description": "Mention any custom name default is @username as Sticker Pack Name",
             "required": false},
         "ALIVE_MEDIA": {
-            "description": "",
+            "description": "You can set your own custom media for .alive command",
             "required": false},
         "MAX_DURATION": {
-            "description": "",
+            "description": "Custome max audio(music) duration for voice call plugin Default to 900 seconds",
             "required": false}
     },
     "buildpacks": [
