@@ -9,4 +9,5 @@ A slightly modified version of Jigarvarma2005's helper script.
 
 ## Credits
 
-@Jigarvarma2005
+@Jigarvarma2005 for the original helper V2 script.
+@Snape541 for identifying some errors.
