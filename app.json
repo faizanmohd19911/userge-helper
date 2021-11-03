@@ -99,7 +99,7 @@
             "required": false},
         "MAX_DURATION": {
             "description": "Custome max audio(music) duration for voice call plugin Default to 900 seconds",
-            "required": false},
+            "required": false}
     },
     "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
