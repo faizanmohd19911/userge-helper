@@ -1,6 +1,6 @@
 # HelperScript-V2
 
-A slightly modified version of Jigarvarma2005's helper script.
+A slightly modified version of Jigarvarma2005's helper script containing more vars.
 
 ### Deploy to heroku
 
