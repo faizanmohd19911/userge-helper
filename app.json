@@ -18,7 +18,7 @@
             "required": false},
         "HEROKU_API_KEY": {
             "description": "get a Heroku API key from http://dashboard.heroku.com/account",
-            "required": false}
+            "required": false},
         "LOAD_UNOFFICIAL_PLUGINS": {
             "description": "Mention True or False",
             "required": false},
@@ -33,7 +33,7 @@
             "required": false},
         "RSS_CHAT_ID": {
             "description": "Telegram chat id for post updates of rss feeds if you have added feed urls",
-            "required": false}
+            "required": false},
         "G_DRIVE_CLIENT_ID": {
             "description": "Go to console.developers.google.com to get it",
             "required": false},
@@ -48,7 +48,7 @@
             "required": false},
         "DOWN_PATH": {
             "description": "directory of your downloads folder, default is downloads",
-            "required": false}
+            "required": false},
         "PREFERRED_LANGUAGE": {
             "description": "Select your Preferred language. For example: If English value will be en",
             "required": false},
@@ -63,7 +63,7 @@
             "required": false},
         "USERGE_ANTISPAM_API": {
             "description": "Get it from @UsergeAntiSpamBot in Telegram",
-            "required": false}
+            "required": false},
         "SPAM_WATCH_API": {
             "description": "Get SpamWatch API from @SpamWatch on Telegram",
             "required": false},
@@ -78,13 +78,13 @@
             "required": false},
         "CMD_TRIGGER": {
             "description": "Command Trigger needed to trigger your userbot to execute your command eg. . , !",
-            "required": false}
+            "required": false},
         "SUDO_TRIGGER": {
             "description": "Must be different from CMD_TRIGGER eg. $",
             "required": false},
         "UPSTREAM_REPO": {
             "description": "Mention this url https://github.com/UsergeTeam/Userge",
-            "required": false}
+            "required": false},
         "FINISHED_PROGRESS_STR": {
             "description": "You must fill Single text of filled bar line of character which can be shown in Finish bar https://coolsymbol.com/ https://changaco.oy.lc/unicode-progress-bars/ https://text-symbols.com/",
             "required": false},
@@ -99,7 +99,7 @@
             "required": false},
         "MAX_DURATION": {
             "description": "Custome max audio(music) duration for voice call plugin Default to 900 seconds",
-            "required": false}
+            "required": false},
     },
     "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
