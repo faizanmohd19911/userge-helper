@@ -6,6 +6,8 @@ A slightly modified version of Jigarvarma2005's helper script containing more va
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theharshitprajapati/userge-helper)
 
+Fork and Star this repo.
+Thanks!
 
 ## Credits
 
